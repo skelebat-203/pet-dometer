@@ -1,0 +1,12 @@
+[project]
+name = "poke-dometer"
+version = "0.1.0"
+description = "Step-based virtual pet prototype"
+requires-python = ">=3.11"
+dependencies = [
+  "pygame>=2.6.0"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

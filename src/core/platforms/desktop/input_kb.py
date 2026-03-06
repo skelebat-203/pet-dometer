@@ -1,0 +1,1 @@
+'''Maps keys → generic actions''' 
