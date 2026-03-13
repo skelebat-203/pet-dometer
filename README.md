@@ -7,6 +7,7 @@ We are making a pokemon-like pedomoeter with the look and fel of the 1998 Pocket
 - Set date / time
 - Set date of birth (for a special animation)
 - Set alarms
+- Slot machine mini game
 ## Harware
 This is a rough idea.
 - Microcontroler
