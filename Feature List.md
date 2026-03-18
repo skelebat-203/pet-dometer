@@ -1,9 +1,10 @@
 #poke-dometer
 ## Mood
 - Mad
-- Ok
-- Likes
-- Loves
+- Upset
+- Fine
+- Happy
+- Excited
 ### Upgrades
 - Add a progress bar to see your progress up / down a level
 - Difficulty setting to account for bad days.
